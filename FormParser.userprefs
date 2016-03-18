@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="FormParser/FormParser.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormParser/Main.cs">
+    <Files>
+      <File FileName="FormParser/Main.cs" Line="6" Column="2" />
+      <File FileName="FormParser/Crawler.cs" Line="25" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FormParser" expanded="True">
+            <Node name="FormParser" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="FormParser" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/dev/projects/FormParser/FormParser/Main.cs" line="19" column="29" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
